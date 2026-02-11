@@ -1,2 +1,2 @@
 # mirepogithub
-Mi repositorio de prueba de Github que he conectado localmente de manera existosa
+Mi repositorio de prueba de Github que he conectado localmente de manera existosa y sincronizado
