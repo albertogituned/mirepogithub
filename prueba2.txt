@@ -1,2 +1,2 @@
-Mi nuevo fichero de prueba llamado prueba2.txt
+Mi nuevo fichero de prueba llamado prueba2
 Quiero que contenga un nuevo cambio
